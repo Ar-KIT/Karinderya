@@ -1,0 +1,10 @@
+C:\Users\azilr\source\repos\Karinderya\Karinderya\obj\Debug\Karinderya.csproj.AssemblyReference.cache
+C:\Users\azilr\source\repos\Karinderya\Karinderya\obj\Debug\Karinderya.Form1.resources
+C:\Users\azilr\source\repos\Karinderya\Karinderya\obj\Debug\Karinderya.Properties.Resources.resources
+C:\Users\azilr\source\repos\Karinderya\Karinderya\obj\Debug\Karinderya.csproj.GenerateResource.cache
+C:\Users\azilr\source\repos\Karinderya\Karinderya\obj\Debug\Karinderya.csproj.CoreCompileInputs.cache
+C:\Users\azilr\source\repos\Karinderya\Karinderya\bin\Debug\Karinderya.exe.config
+C:\Users\azilr\source\repos\Karinderya\Karinderya\bin\Debug\Karinderya.exe
+C:\Users\azilr\source\repos\Karinderya\Karinderya\bin\Debug\Karinderya.pdb
+C:\Users\azilr\source\repos\Karinderya\Karinderya\obj\Debug\Karinderya.exe
+C:\Users\azilr\source\repos\Karinderya\Karinderya\obj\Debug\Karinderya.pdb
